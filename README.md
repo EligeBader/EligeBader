@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a passionate Data Scientist with a keen interest in building innovative solutions. I have experience in various programming languages and frameworks, and I enjoy learning new technologies.
+
 <!--
 **EligeBader/EligeBader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
