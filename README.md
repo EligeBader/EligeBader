@@ -2,7 +2,7 @@
 
 I am a passionate Data Scientist with a keen interest in building innovative solutions. I have experience in various programming languages and frameworks, and I enjoy learning new technologies.
 
-Projects Overview:
+Projects Overview: 
 Data Collection: I utilized various methods and tools to gather data from diverse sources, ensuring the comprehensiveness and accuracy of the collected datasets including web scraping.
 
 Data Preparation: I focused on cleaning, transforming, and preparing data for analysis. This involved handling missing values, bad values, data types, normalizing data, and feature engineering to make the data analysis-ready.
