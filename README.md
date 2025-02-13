@@ -5,6 +5,7 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - 👥 [LinkedIn](https://www.linkedin.com/in/elige-bader)
 - ✉️ [Email](mailto:eligebader12@gmail.com)
 - 🐱 [GitHub](https://github.com/EligeBader)
+- 📄 [Resume](
 
 
 ## 📚 Skills
@@ -45,21 +46,20 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 ![Project Types Pie Chart](project_types_pie_chart.png)
 
 
+🏆 Achievements and Certifications
+Python for Data Science and AI, Coursera, 09/26/24
 
-## Tools and Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF0072?style=for-the-badge&logo=xgboost&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pyspark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+Excel Essentials for Data Analytics, Coursera, 08/29/24
 
+Data Analytics Essentials, Coursera, 08/23/24
+
+Master Google Sheets, Udemy, 08/01/24
+
+Workday Basics and Beyond Basics, Coursera, 08/01/24
+
+Human Resources: Compensation and Benefits, LinkedIn Learning, 07/01/24
+
+Artificial Intelligence and Business Strategy, LinkedIn Learning, 07/01/24
 
 
 
