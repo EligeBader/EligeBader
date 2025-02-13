@@ -6,20 +6,20 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - ✉️ [Email](mailto:eligebader12@gmail.com)
 - 🐱 [GitHub](https://github.com/EligeBader)
 
-
 📚 Skills
-Programming Languages: Python
-Data Analysis & Visualization: Pandas, NumPy
+Programming Languages:
 
-Machine Learning & Modeling: Scikit-Learn, TensorFlow, PyTorch, XGBoost, Hyperparameter Tuning
+Data Analysis & Visualization:
 
-Statistical Analysis: Statistical Testing, Regression Analysis
+Machine Learning & Modeling:
 
-Big Data Technologies: SQL, Hadoop, Spark
+Statistical Analysis:
 
-Data Wrangling & Preprocessing: KNNImputer and SimpleImputer
+Big Data Technologies:
 
-Development Tools: Jupyter Notebooks, Git
+Data Wrangling & Preprocessing:
+
+Development Tools:
 
 ## 🔍 Projects Overview
 ### Data Collection
