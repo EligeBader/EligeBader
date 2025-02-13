@@ -48,7 +48,7 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 
 ## 💡 Projects with My Work
 
-### [House Prices - Regression Techniques](Linear-Regression-Project---Housing-Prices)
+### [House Prices - Regression Techniques]([Linear-Regression-Project---Housing-Prices](https://github.com/EligeBader/Linear-Regression-Project---Housing-Prices))
 - Developed multiple linear regression models and neural networks models to predict house prices using Python.
 - Cleaned and preprocessed dataset: handled missing and bad values, feature scaling, and encoding.
 - Created new features to enhance model performance.
