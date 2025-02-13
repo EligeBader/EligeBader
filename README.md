@@ -6,20 +6,15 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - ✉️ [Email](mailto:eligebader12@gmail.com)
 - 🐱 [GitHub](https://github.com/EligeBader)
 
-📚 Skills
-Programming Languages:
+## 📚 Skills
+- **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Data Analysis & Visualization:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- **Machine Learning & Modeling:** ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF0072?style=for-the-badge&logo=xgboost&logoColor=white) ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-339933?style=for-the-badge&logo=hyperparameter-tuning)
+- **Statistical Analysis:** ![Statistical Testing](https://img.shields.io/badge/Statistical%20Testing-6DA55F?style=for-the-badge&logo=statistical-testing) ![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-7952B3?style=for-the-badge&logo=regression-analysis)
+- **Big Data Technologies:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+- **Data Wrangling & Preprocessing:** ![KNNImputer](https://img.shields.io/badge/KNNImputer-6DA55F?style=for-the-badge&logo=knnimputer) ![SimpleImputer](https://img.shields.io/badge/SimpleImputer-FF6F00?style=for-the-badge&logo=simpleimputer)
+- **Development Tools:** ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Data Analysis & Visualization:
-
-Machine Learning & Modeling:
-
-Statistical Analysis:
-
-Big Data Technologies:
-
-Data Wrangling & Preprocessing:
-
-Development Tools:
 
 ## 🔍 Projects Overview
 ### Data Collection
