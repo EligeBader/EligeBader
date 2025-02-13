@@ -6,10 +6,6 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - ✉️ [Email](mailto:eligebader12@gmail.com)
 - 🐱 [GitHub](https://github.com/EligeBader)
 
-## 📚 Skills
-Sure! Here's the updated skills section with badges and the additional tools mentioned in your skills:
-
----
 
 ## 📚 Skills
 - **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,10 +15,6 @@ Sure! Here's the updated skills section with badges and the additional tools men
 - **Big Data Technologies:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 - **Data Wrangling & Preprocessing:** ![KNNImputer](https://img.shields.io/badge/KNNImputer-6DA55F?style=for-the-badge&logo=knnimputer) ![SimpleImputer](https://img.shields.io/badge/SimpleImputer-FF6F00?style=for-the-badge&logo=simpleimputer)
 - **Development Tools:** ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-Feel free to copy and paste this updated section into your README. Let me know if you need any more help!
 
 
 ## 🔍 Projects Overview
