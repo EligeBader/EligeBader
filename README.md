@@ -5,7 +5,7 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - 👥 [LinkedIn](https://www.linkedin.com/in/elige-bader)
 - ✉️ [Email](mailto:eligebader12@gmail.com)
 - 🐱 [GitHub](https://github.com/EligeBader)
-- 📄 [Resume](
+- 📄 [Resume](Elige_Bader_Resume.pdf)
 
 
 ## 📚 Skills
