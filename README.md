@@ -1,6 +1,10 @@
 ## Hi there 👋
+I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate from LearningFuze with a Certificate in Data Science. I've worked on various projects involving data analysis, machine learning, and predictive modeling. I'm passionate about leveraging data to uncover insights and drive decision-making. Feel free to contact me if you have any questions or if you're interested in collaborating!
 
-I am a passionate Data Scientist with a keen interest in building innovative solutions. I have experience in various programming languages and frameworks, and I enjoy learning new technologies.
+## 📫 Contact Me on Social Media
+- 👥 [LinkedIn](https://www.linkedin.com/in/elige-bader)
+- ✉️ [Email](mailto:eligebader12@gmail.com)
+- 🐱 [GitHub](https://github.com/EligeBader)
 
 Projects Overview: 
 Data Collection: I utilized various methods and tools to gather data from diverse sources, ensuring the comprehensiveness and accuracy of the collected datasets including web scraping.
