@@ -46,20 +46,15 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 ![Project Types Pie Chart](project_types_pie_chart.png)
 
 
-🏆 Achievements and Certifications
-Python for Data Science and AI, Coursera, 09/26/24
+## 🏆 Achievements and Certifications
+- Python for Data Science and AI, Coursera, 09/26/24
+- Excel Essentials for Data Analytics, Coursera, 08/29/24
+- Data Analytics Essentials, Coursera, 08/23/24
+- Master Google Sheets, Udemy, 08/01/24
+- Workday Basics and Beyond Basics, Coursera, 08/01/24
+- Human Resources: Compensation and Benefits, LinkedIn Learning, 07/01/24
+- Artificial Intelligence and Business Strategy, LinkedIn Learning, 07/01/24
 
-Excel Essentials for Data Analytics, Coursera, 08/29/24
-
-Data Analytics Essentials, Coursera, 08/23/24
-
-Master Google Sheets, Udemy, 08/01/24
-
-Workday Basics and Beyond Basics, Coursera, 08/01/24
-
-Human Resources: Compensation and Benefits, LinkedIn Learning, 07/01/24
-
-Artificial Intelligence and Business Strategy, LinkedIn Learning, 07/01/24
 
 
 
