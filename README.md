@@ -46,7 +46,7 @@ Development Tools: Jupyter Notebooks, Git
 - Analyzed time series data to forecast future trends and patterns
   - Used techniques such as ARIMA and LSTM models for time series forecasting
 
-![Project Types Pie Chart](path/to/your/project_types_pie_chart.png)
+![Project Types Pie Chart]([path/to/your/project_types_pie_chart.png](https://github.com/EligeBader/EligeBader/blob/main/project_types_pie_chart.png))
 
 
 
