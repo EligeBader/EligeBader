@@ -45,6 +45,29 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 
 ![Project Types Pie Chart](project_types_pie_chart.png)
 
+## 💡 Projects with My Work
+
+### [House Prices - Advanced Regression Techniques](link-to-your-house-prices-project)
+- Developed multiple linear regression models and neural networks models to predict house prices using Python.
+- Cleaned and preprocessed dataset: handled missing and bad values, feature scaling, and encoding.
+- Created new features to enhance model performance.
+- Designed, evaluated, and tuned models; selected the best using RMSE.
+
+### [Home Credit Default Risk - Classification Techniques](link-to-your-home-credit-default-risk-project)
+- Developed classification models and neural networks models to predict credit default risk using Python.
+- Cleaned and preprocessed dataset: handled missing values, encoding.
+- Designed, evaluated, and tuned models; selected the best using AUC-ROC.
+
+### [Recommender Systems - Amazon Product Recommendations](link-to-your-recommender-systems-project)
+- Developed a recommendation system for Amazon products (books) and created a Streamlit webpage where users can input their ID to get book recommendations.
+- Implemented collaborative filtering and content-based filtering algorithms.
+- Evaluated the recommendation system using metrics like RMSE.
+
+### [Deep Learning Project - CIFAR-10 Image Classification](link-to-your-cifar-10-image-classification-project)
+- Developed image classification models using the CIFAR-10 and CIFAR-100 datasets to identify objects in images.
+- Built and trained convolutional neural networks (CNNs) using TensorFlow.
+- Evaluated model performance using metrics such as accuracy, precision, recall, and F1 score utilizing the classification report function.
+
 
 ## 🏆 Achievements and Certifications
 - Python for Data Science and AI, Coursera, 09/26/24
