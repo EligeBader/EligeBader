@@ -48,7 +48,7 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 
 ## 💡 Projects with My Work
 
-### [House Prices - Regression Techniques]([Linear-Regression-Project---Housing-Prices](https://github.com/EligeBader/Linear-Regression-Project---Housing-Prices)
+### [House Prices - Regression Techniques](https://github.com/EligeBader/Linear-Regression-Project---Housing-Prices)
 
 ### [Home Credit Default Risk - Classification Techniques](link-to-your-home-credit-default-risk-project)
 
