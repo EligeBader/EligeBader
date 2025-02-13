@@ -46,17 +46,25 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 
 ![Project Types Pie Chart](project_types_pie_chart.png)
 
+
 ## 💡 Projects with My Work
 
-### [House Prices - Regression Techniques](https://github.com/EligeBader/Linear-Regression-Project---Housing-Prices)
+### 🚀 Explore My Projects!
+- **🏠 House Prices - Regression Techniques:** [Check it out!](https://github.com/EligeBader/Linear-Regression-Project---Housing-Prices)
+  - Predicting house prices one regression model at a time!
 
-### [Home Credit Default Risk - Classification Techniques](link-to-your-home-credit-default-risk-project)
+- **🏦 Home Credit Default Risk - Classification Techniques:** [Discover more!](link-to-your-home-credit-default-risk-project)
+  - Classifying credit risks to make lending safer and smarter.
 
-### [Recommender Systems - Amazon Product Recommendations](link-to-your-recommender-systems-project)
+- **📚 Recommender Systems - Amazon Product Recommendations:** [See it in action!](link-to-your-recommender-systems-project)
+  - Get personalized book recommendations and make your reading list endless!
 
-### [Deep Learning Project - Image Classification](link-to-your-image-classification-project)
+- **📸 Deep Learning Project - Image Classification:** [Dive in!](link-to-your-image-classification-project)
+  - Identifying objects in images with the power of CNNs.
 
-### [LLM Classification Finetuning](link)
+- **🧠 LLM Classification Finetuning:** [Explore now!](link)
+  - Fine-tuning language models to understand and classify like a pro.
+
 
 
 
