@@ -18,6 +18,7 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - **Development Tools:** ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+
 ## 🔍 Projects Overview
 ### Data Collection
 - Utilized various methods and tools to gather data from diverse sources, ensuring the comprehensiveness and accuracy of the collected datasets, including web scraping.
