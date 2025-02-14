@@ -44,6 +44,8 @@ I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate f
 - Analyzed time series data to forecast future trends and patterns
   - Used techniques such as ARIMA and LSTM models for time series forecasting
 
+## 📊 Graph of Results
+Below is a graphical representation that visualizes how my time is distributed across the different data science activities:
 ![Project Types Pie Chart](project_types_pie_chart.png)
 
 
