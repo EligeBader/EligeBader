@@ -1,5 +1,5 @@
 ## Hi everyone 👋
-I'm Elige Bader, a Data Analyst/Scientist from Lake Forest, CA. I'm a graduate from LearningFuze with a Certificate in Data Science. I've worked on various projects involving data analysis, machine learning, and predictive modeling. I have 2 years of experience in web development and more than 3 years in compensation analysis. I'm passionate about leveraging data to uncover insights and drive decision-making. Feel free to contact me if you have any questions or if you're interested in collaborating!
+I'm Elige Bader, a Data Analyst and Scientist from Lake Forest, CA. I'm a graduate from LearningFuze with a Certificate in Data Science. I've worked on various projects involving data analysis, machine learning, and predictive modeling. I have 2 years of experience in web development and more than 3 years in compensation analysis. I'm passionate about leveraging data to uncover insights and drive decision-making. Feel free to contact me if you have any questions or if you're interested in collaborating!
 
 ## 📫 Contact Me
 - 👥 [LinkedIn](https://www.linkedin.com/in/elige-bader)
